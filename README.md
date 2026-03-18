@@ -17,7 +17,7 @@ A powerful and fast desktop application to transform images and videos into styl
 * **Image Processing**: OpenCV & Pillow (PIL)
 <img width="1244" height="1685" alt="epng" src="https://github.com/user-attachments/assets/9e4aabb4-8953-4c23-9f60-e3bfd04ff1da" />
 * **Video Processing**: MoviePy 2.0+ & ImageIO
-![Adobe Express - bad apple (online-video-cutter com)](https://github.com/user-attachments/assets/38f4e92d-bd36-42f6-8f4c-f98adf788121)
+![Adobe Express - bad apple (online-video-cutter com)](https://github.com/user-attachments/assets/d5d2aec0-38be-42d8-b8b9-1f841ddd0489)
 
 ## 📖 How to Use
 
